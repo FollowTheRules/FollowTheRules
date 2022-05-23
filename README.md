@@ -1,8 +1,8 @@
 - 👋 Hi, I’m > @FollowTheRules
-- 👀 I’m interested in > computers.
-- 🌱 I’m currently learning > everything.
-- 💞️ I’m looking to collaborate on > possible topics.
-- 📫 How to reach me > wumpbig@gmail.com
+- 👀 I’m very intelligent 
+- 🌱 I’m currently studying.
+- 💞️ I love learning new areas.
+- 📫 wumpbig@gmail.com
 
 <!---
 FollowTheRules/FollowTheRules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
